@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @amfarazz
-- 👀 I’m interested in being a java developer
-- 🌱 I’m currently learning java ,python 
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi there ,I'am Mohammad faraz
+- I am third year college student at MIT ADT.
+- I have work on web development ,have practice DSA using C++ and Java.
+- I have done 3 months intership programs on AI/ML by verzeo
+- Currently working on the project(Cricket Score predicter)
 - 📫 Reach me at farazmgoriya101@gmail.com
 
 
